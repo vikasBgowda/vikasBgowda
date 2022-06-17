@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vikas 
-- 👀 I’m interested in Solving problems and add values using code.
+- 👀 I’m interested in Solving problems and add value using code.
 - 📫 How to reach me vikasgowda468@gmail.com
 
 <!---
